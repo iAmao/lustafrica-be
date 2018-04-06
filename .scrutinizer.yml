@@ -1,0 +1,9 @@
+
+checks:
+  javascript: true
+filter:
+  excluded_paths:
+      - .circleci/
+      - node_modules/
+      - coverage/
+      - test/
