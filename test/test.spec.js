@@ -1,5 +1,5 @@
 describe('Mock', () => {
-    it('should expect true', () => {
-        expect(true).equal(true)
-    })
+  it('should expect true', () => {
+    expect(true).equal(true)
+  })
 })
